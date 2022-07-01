@@ -1,6 +1,6 @@
 # Certification Resources
 
-* I created this repository to list out the preparation resouces I used for each exam. I hope these help you pass your exam.
+I created this repository to list out the preparation resouces I used for each exam. I hope these help you pass your exam.
 
 ## Google Cloud: Associate Cloud Engineer
 <sub>Started stuyding: June 5th, 2022; Passed July 1st, 2022</sub>
