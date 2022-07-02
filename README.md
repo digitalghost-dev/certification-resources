@@ -10,7 +10,7 @@ First off, I recommend taking a look at the [overview page](https://cloud.google
 Here is the [exam guide](https://cloud.google.com/certification/guides/cloud-engineer).
 
 ### Resources Used
-* I started using the [Cloud Engineer Learning Path(https://www.cloudskillsboost.google/paths/11)
+* I started using the [Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11)
   * I skipped the following courses/quests:
     * Reliable Google Cloud Infrastructure: Design and Process
     * Automating Infrastructure on Google Cloud with Terraform
