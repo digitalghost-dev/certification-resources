@@ -15,6 +15,6 @@ Here is the [exam guide](https://cloud.google.com/certification/guides/cloud-eng
     * Reliable Google Cloud Infrastructure: Design and Process
     * Automating Infrastructure on Google Cloud with Terraform
     * Logging, Monitoring and Observability in Google Cloud (I completed a few lessons from here but I don't think the entire course is necessary)
-* [gcloud commands cheat sheet](https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf)
 * [Udemy practice tests](https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-exams-gcp/)
+* [gcloud commands cheat sheet](https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf)
 * [Developer cheat sheet](https://googlecloudcheatsheet.withgoogle.com/)
