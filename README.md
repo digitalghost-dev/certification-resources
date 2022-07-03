@@ -4,6 +4,7 @@ I created this repository to list out the preparation resouces I used for each e
 
 ## Google Cloud: Associate Cloud Engineer
 <sup>Started stuyding: June 5th, 2022; Passed July 1st, 2022</sup>
+
 *note: I have about 3 years of IT support experience and have built a Cloud Run application on Google Cloud so I have some experience/knowledge of these tools.*
 
 First off, I recommend taking a look at the [overview page](https://cloud.google.com/training/cloud-infrastructure#cloud-engineer-learning-path) for the exam on Google's website if you haven't already. This will help you get a good understanding of what to expect on the exam.
