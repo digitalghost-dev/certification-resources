@@ -1,3 +1,6 @@
+# Topics
+> Below are the most important topics to learn about in preparation for the exam. All of these topics have questions on the exam in one form or another
+
 ## Table of Contents
 * [Resources Used for Preparation](#resources-used-for-preparation)
 * [Most Import Topics to Know](#most-important-topics-to-know)
