@@ -273,10 +273,6 @@
     - It’s easier and better to manage members in a Google group than to update an IAM policy.
     - Rotate your service account keys using the IAM service account API.
     - For production workloads, it’s best practice to user user-managed service accounts instead of the default service accounts.
-    - In deciding how to use a service account, use the following flow-chart to guide you in your decision-making process:
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c39944c-4436-46c2-b68b-c422539f95db/Untitled.png)
-
 ---
 
 ### Cloud Billing
