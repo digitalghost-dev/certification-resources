@@ -1,7 +1,16 @@
 ## Table of Contents
-* [Resourses Used for Prepartation](#resources-used-for-prepartation)
+* [Resources Used for Preparation](#resources-used-for-preparation)
 * [Most Import Topics to Know](#most-important-topics-to-know)
-  * [Kubernetes](#kubernets)
+  * [Kubernetes](#kubernetes)
+  * [Compute Engine](#compute-engine)
+  * [App Engine](#app-engine)
+  * [Cloud Storage](#cloud-storage)
+  * [Databases](#databases)
+  * [Virtual Private Cloud (VPC)](#virtual-private-cloud-vpc)
+  * [Cloud Logging](#cloud-logging)
+  * [Cloud Monitoring](#cloud-monitoring)
+  * [Cloud IAM](#cloud-iam)
+  * [Cloud Billing](#cloud-billing)
 
 
 ## Resources Used for Preparation
